@@ -1,6 +1,9 @@
 # Github User Activity
 This is an java application to check the user activities fo github changes with CLI.
 
+#Project Url
+https://roadmap.sh/projects/github-user-activity
+
 # Features
 User will get the last commits printed in console.
 
